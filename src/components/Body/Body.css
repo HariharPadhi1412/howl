@@ -1,0 +1,44 @@
+.collabImg {
+  width: 350px;
+  height: 400px;
+  position: relative;
+  left: 800px;
+}
+
+.para2 {
+  position: relative;
+  left: 620px;
+  width: 500px;
+  word-break: keep-all;
+  word-wrap: break-word;
+}
+
+.para1 {
+  top: 70px;
+  position: relative;
+  left: 200px;
+  width: 350px;
+  word-break: keep-all;
+  word-wrap: break-word;
+}
+
+.text1 {
+  position: relative;
+  left: 100px;
+  bottom: 320px;
+  font-size: 450%;
+}
+
+.text2 {
+  position: relative;
+  left: 100px;
+  bottom: 320px;
+  font-size: 450%;
+}
+
+.text3 {
+  position: relative;
+  left: 100px;
+  bottom: 320px;
+  font-size: 450%;
+}
