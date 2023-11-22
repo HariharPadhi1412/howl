@@ -1,0 +1,54 @@
+.collabImg {
+  width: 350px;
+  height: 400px;
+  position: relative;
+  left: 643px;
+}
+
+.para2 {
+  position: relative;
+  left: 460px;
+  bottom: 350px;
+  width: 500px;
+  word-break: keep-all;
+  word-wrap: break-word;
+}
+
+.para1 {
+  top: 70px;
+  position: relative;
+  left: 200px;
+  width: 350px;
+  word-break: keep-all;
+  word-wrap: break-word;
+}
+
+.text1 {
+  position: relative;
+  left: 300px;
+  bottom: 360px;
+  font-size: 550%;
+  font-weight: 900;
+  color: transparent;
+  -webkit-text-stroke: 2px #b056be;
+}
+
+.text2 {
+  position: relative;
+  left: 300px;
+  bottom: 380px;
+  font-size: 550%;
+  font-weight: 900;
+  color: transparent;
+  -webkit-text-stroke: 2px #b056be;
+}
+
+.text3 {
+  position: relative;
+  left: 300px;
+  bottom: 400px;
+  font-size: 550%;
+  font-weight: 900;
+  color: transparent;
+  -webkit-text-stroke: 2px #b056be;
+}

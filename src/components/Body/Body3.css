@@ -1,0 +1,22 @@
+.sect {
+    background-color: #b156bf;
+    height: 300px;
+}
+
+.text12 {
+    position: relative;
+    font-weight: 500;
+    top: 80px;
+    left: 50px;
+    color: white;
+    font-size: 50px;
+}
+
+.text21 {
+    position: relative;
+    font-weight: 500;
+    top: 138px;
+    left: -196px;
+    color: white;
+    font-size: 50px;
+}

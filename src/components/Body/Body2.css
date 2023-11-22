@@ -1,0 +1,39 @@
+.textData {
+    position: relative;
+    top: 100px;
+    font-weight: normal;
+    color: #b056be;
+    font-size: 36px;
+}
+
+.image-gallery-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.image-gallery-row {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 20px;
+    bottom: 10px;
+}
+
+.gallery-image {
+    width: 150px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.first-row {
+    position: relative;
+    bottom: 300px;
+    margin-bottom: 20px;
+}
+
+.second-row {
+    position: relative;
+    bottom: 300px;
+}
