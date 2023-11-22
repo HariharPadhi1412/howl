@@ -20,3 +20,25 @@
     color: white;
     font-size: 50px;
 }
+
+.arrow {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    color: white;
+    top: 190px;
+    left: -498px;
+
+}
+
+.gallery-image {
+    position: relative;
+    height: 120px;
+    width: 120px;
+}
+
+.images-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5 px;
+}
