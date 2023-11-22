@@ -1,0 +1,57 @@
+.footer {
+    display: flex;
+    background-color: #222632;
+    height: 70px;
+    overflow: hidden;
+}
+
+span {
+    overflow: hidden;
+}
+
+.textfooter {
+    display: flex;
+    gap: 80px;
+    top: 25px;
+    position: relative;
+    left: 200px;
+    color: white;
+}
+
+.img-logo {
+    display: flex;
+    position: relative;
+    top: 20px;
+    padding: 5px;
+    gap: 15px;
+    left: 10px;
+    flex-direction: row;
+    height: 10px;
+    width: 10px;
+}
+
+.fimg {
+    height: 30px;
+    width: 30px;
+}
+
+.iimg {
+    height: 30px;
+    width: 30px;
+}
+
+.timg {
+    height: 30px;
+    width: 30px;
+}
+
+.lnimg {
+    height: 30px;
+    width: 30px;
+}
+
+.footer-btn-i {
+    background-color: #222632;
+    border: 2px #b056be;
+    color: #000;
+}

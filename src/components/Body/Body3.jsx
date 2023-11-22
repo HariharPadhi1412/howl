@@ -14,7 +14,7 @@ function Body3() {
           <span className="text21">of the wolves</span>
           <img src={rightarrow} alt="arrow" className="arrow" />
         </div>
-        <div className="images">
+        <div className="image-gallerys">
           <div className="images-row">
             {imageSources.slice(0, 3).map((image, index) => (
               <img

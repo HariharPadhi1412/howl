@@ -28,17 +28,19 @@
     color: white;
     top: 190px;
     left: -498px;
-
 }
 
 .gallery-image {
     position: relative;
-    height: 120px;
-    width: 120px;
+    height: 180px;
+    width: 180px;
 }
 
 .images-row {
+    position: relative;
+    left: 700px;
+    top: 5px;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 5 px;
+    grid-template-columns: repeat(3, 0.14fr);
+    gap: 5px;
 }
